@@ -47,7 +47,7 @@ h2{
       <a class="nav-link" href="#">Home</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#" style="margin-left: 920px" >Edit</a>
+      <a class="nav-link" href="waste.php" style="margin-left: 920px" >Edit</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="index.php" style="margin-left: 50px">Logout</a>
